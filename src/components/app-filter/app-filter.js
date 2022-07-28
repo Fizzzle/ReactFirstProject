@@ -6,17 +6,17 @@ const AppFilter = () => {
             <button
                 className="btn btn-light"
                 type="button">
-                 Все татумастера
+                 Все шутники
             </button>
              <button
                 className="btn btn-outline-light"
                 type="button">
-                 На повышение
+                 На повышение(в бан)
             </button>
              <button
                 className="btn btn-outline-light"
                 type="button">
-                З\П больше 1000$
+                З\П больше просто еды
             </button>
         </div>
     )

@@ -12,7 +12,9 @@
     font-size: 20px;
     cursor: pointer;
     min-width: 550px;
+    vertical-align: ;    
 }
+
 
 .list-group-item input {
     line-height: 35px;
